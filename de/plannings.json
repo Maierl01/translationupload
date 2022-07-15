@@ -1,1 +1,24 @@
-{}
+{
+    "drawer": {
+        "description": "Beispiel Text.",
+        "filters": {
+            "disable-filter": "Filter deaktivieren",
+            "title": "Filter"
+        },
+        "title": "Meine Pläne"
+    },
+    "new-planning": {
+        "title": "Neuer Plan",
+        "name": "Name",
+        "name-required": "Name wird benötigt",
+        "description": "Beschreibung",
+        "createButton": "Erstellen",
+        "project-required": "Projekt wird benötigt"
+    },
+    "edit-planning": {
+        "title": "Plan editieren"
+    },
+    "delete-planning": {
+        "title": "Sind Sie sich sicher..."
+    }
+}
