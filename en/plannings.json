@@ -1,0 +1,33 @@
+{
+  "drawer": {
+    "title": "My Plannings",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "filters": {
+      "title": "Filters",
+      "disable-filter": "Disable filter"
+    }
+  },
+  "new-planning": {
+    "title": "New Planning",
+    "createButton": "Create",
+    "name": "Name",
+    "name-required": "Name is required",
+    "project-required": "Project is required",
+    "description": "Description"
+  },
+  "edit-planning": {
+    "title": "Edit Planning"
+  },
+  "delete-planning":{
+    "title": "Are you sure you want to delete planning?"
+  },
+  "edit-settings": {
+    "title": "Edit settings",
+    "save": "Save settings"
+  },
+  "new-single-planning": "Add single plan",
+  "delete-title": "Are you sure you want to delete planning?",
+  "delete-title-bulk": "Are you sure you want to delete plannings?",
+  "cannot-delete": "Cannot delete planning",
+  "deleted": "Planning deleted"
+}
