@@ -2,5 +2,8 @@
     "QuickSolveTitle": "Quicksolve",
     "constructions": "Baustellen",
     "inventory": "Inventar",
-    "designer": "Entwickler"
+    "designer": "Entwickler",
+    "project": "Projekt",
+    "planning": "Planung",
+    "archive": "Archiv"
 }
