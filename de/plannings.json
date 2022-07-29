@@ -1,5 +1,10 @@
 {
     "drawer": {
-        "title": "Meine Pläne"
+        "title": "Meine Pläne",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "filters": {
+            "title": "Filter",
+            "disable-filter": "Filter deaktivieren"
+        }
     }
 }
