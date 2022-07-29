@@ -1,0 +1,52 @@
+{
+  "drawer": {
+    "title": "My projects",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "filters": {
+      "title": "Filters",
+      "disable-filter": "Disable filter"
+    }
+  },
+  "no-projects": {
+    "title": "There is no projects...",
+    "description": "Aliquam tortor risus, venenatis nec semper quis, porta nec sapien. Ut porta et ante nec posuere. Suspendisse congue metus sapien, ac semper mauris tristique aliquam. Mauris convallis, eros at luctus auctor, ex lacus viverra odio, at interdum turpis nisl ac neque. Etiam auctor justo porttitor, iaculis nibh sed, volutpat nibh. Donec feugiat mi eget lacus elementum malesuada.",
+    "new-project": "New project",
+    "new-planner": "New planner"
+  },
+  "validation": {
+    "title-required" :"Title is required"
+  },
+  "new-project": {
+    "title": "New Project",
+    "createButton": "Create new project",
+    "name": "Name",
+    "description": "Description",
+    "thumbnail": "Thumbnail"
+  },
+  "detail": {
+    "addressTitle": "Address",
+    "measurementUnitTitle": "Unit of measurement",
+    "contactPersonTitle": "Contact person",
+    "new-planning-title": "Add a new plan",
+    "newPlanningSubtitle": "What should be planned?",
+    "no-plannings-title": "No single plans available",
+    "no-plannings-subtitle": "Create an single plan by clicking on the \"Add single plan\" button"
+    
+  },
+  "edit-project": {
+    "title": "Edit Project",
+    "edit-button": "Change Project Data"
+  },
+  "planning-types": {
+    "scaffolding": "Scaffolding",
+    "foundation": "Foundation",
+    "ceiling" : "Ceiling",
+    "wall": "Wall"
+  },
+  "delete-title": "Are you sure you want to delete project?",
+  "delete-title-bulk": "Are you sure you want to delete projects?",
+  "cannot-delete": "Cannot delete project",
+  "contains-plannings": "Project contains plannings",
+  "deleted": "Project deleted",
+  "id-not-found": "Project with {{id}} not found"
+}
