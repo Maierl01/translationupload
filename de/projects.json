@@ -1,1 +1,9 @@
-{}
+{
+    "drawer": {
+        "title": "Meine Projekte",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "filters": {
+            "title": "Filter"
+        }
+    }
+}
